@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Stalonne Jabo</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A student in Adventist university of Central Africa</h3>
 
 <p align="left"> <a href="https://twitter.com/jabostalonne" target="blank"><img src="https://img.shields.io/twitter/follow/jabostalonne?logo=twitter&style=for-the-badge" alt="jabostalonne" /></a> </p>
 
-- 🌱 I’m currently learning **Database development, Web development and designing**
+- 🌱 I’m currently learning **Database development, Web development and designing, Graphic design, Mobile programing**
 
-- 💬 Ask me about **HTML, Graphic design, CSS, C++**
+- .💬 Ask me about **HTML, Graphic design, CSS, C++, Python, Oracle**
 
 - 📫 How to reach me **stalonnejabo10@gmail.com**
 
