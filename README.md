@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Database development, Web development and designing, Graphic design, Mobile programing**
 
-- .💬 Ask me about **HTML, Graphic design, CSS, C++, Python, Oracle, GITHUB**
+- .💬 Ask me about **HTML, Graphic design, CSS, C++, Python, Oracle, GitHub**
 
 - 📫 How to reach me **stalonnejabo10@gmail.com**
 
